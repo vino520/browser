@@ -10,3 +10,5 @@
 
 6.Adding the status feature
 
+7.Add a group members upto 100 users
+
